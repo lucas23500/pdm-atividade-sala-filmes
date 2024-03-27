@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Filme</string>
+    <string name="genero_filme">Gênero</string>
+    <string name="titulo_filme">Título</string>
+    <string name="duracao_filme">Duração</string>
+    <string name="sinopse_filme">Sinopse</string>
+    <string name="ano_filme">Ano</string>
+</resources>

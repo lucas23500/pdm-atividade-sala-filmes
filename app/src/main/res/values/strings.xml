@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Movie</string>
+    <string name="genero_filme">Gender</string>
+    <string name="titulo_filme">Title</string>
+    <string name="duracao_filme">Duration</string>
+    <string name="sinopse_filme">Synopsis</string>
+    <string name="ano_filme">Year</string>
+</resources>
